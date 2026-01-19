@@ -1,9 +1,9 @@
-📘 NCERT Doubt Solver (Multilingual RAG System)
+ NCERT Doubt Solver (Multilingual RAG System)
 
 A Multilingual NCERT Doubt Solver built using FastAPI + React (Vite) that allows students to ask questions from NCERT textbooks and get accurate answers using a Retrieval-Augmented Generation (RAG) pipeline.
 Supports English, Hindi, Marathi, Tamil, Telugu, Bengali, Urdu.
 
-🚀 Features
+ Features
 
 📚 NCERT textbook-based answers
 🌍 Multilingual question support
