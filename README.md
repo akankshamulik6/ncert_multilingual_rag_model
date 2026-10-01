@@ -121,28 +121,7 @@ ncertdoubtsolver-main/
 │
 └── README.md
 
-🎥 Video Demo (MANDATORY FOR PROJECTS)
-📌 Where to Place the Video
 
-You DO NOT upload videos directly to GitHub.
-
-Correct options:
-
-Google Drive
-
-YouTube (Unlisted)
-
-LinkedIn Post
-
-📌 How to Add Video to README
-
-Upload your demo video to Google Drive, then:
-
-Right-click video → Get link
-
-Set access to Anyone with the link
-
-Paste link in README like this 👇
 
 ## 🎥 Project Demo Video
 
